@@ -1,0 +1,18 @@
+.expense-filter{
+    background-color: rgb(85, 75, 75);
+    padding: 1.5rem 0;  
+    border-radius: 6px;  
+}
+
+.expense-filter__content{
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    margin: 0 15px;
+    font-weight: bold;
+}
+
+.expense-filter__content select{
+    padding: 3px 5px;
+    border-radius: 5px;
+}
